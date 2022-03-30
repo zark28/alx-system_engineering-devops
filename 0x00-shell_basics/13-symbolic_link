@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls symbolic_ls_link
+ln -s /bin/ls _ls_
