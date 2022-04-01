@@ -1,0 +1,2 @@
+#!/bin/bash
+ find hello -group guillaume -print -exec sudo chgrp school hello
