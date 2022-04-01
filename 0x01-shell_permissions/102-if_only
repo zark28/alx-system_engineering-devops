@@ -1,2 +1,2 @@
 #!/bin/bash
- find hello -group guillaume -print -exec sudo chgrp school hello
+find hello -group guillaume -print -exec sudo chown school hello
